@@ -6,7 +6,7 @@ Your Name, yourcontact@unl.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+I want to experiment with inputting a variety of songs and havign the AI finish them. I might try to pick some unfinished or otherwise incomplete songs to see what the AI does with them.
 
 ## Model/Data
 
