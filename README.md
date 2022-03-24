@@ -1,8 +1,6 @@
 # Project 2 Generative Audio
 
-Your Name, yourcontact@unl.edu
-
-(Your teammate's contact info, if appropriate)
+Grant Stoner gstoner2@huskers.unl.edu
 
 ## Abstract
 
