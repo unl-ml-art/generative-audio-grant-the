@@ -4,13 +4,11 @@ Grant Stoner gstoner2@huskers.unl.edu
 
 ## Abstract
 
-I want to experiment with inputting a variety of songs and havign the AI finish them. I might try to pick some unfinished or otherwise incomplete songs to see what the AI does with them.
+Inspired by Johnny Cash's famous cover of "Hurt" by Nine Inch Nails, I wanted to use Jukebox to make a Nine Inch Nails version of some of Johnny Cash's songs.
 
 ## Model/Data
 
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
+I used the Jukebox code example
 
 ## Code
 
