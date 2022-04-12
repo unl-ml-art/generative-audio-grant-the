@@ -4,7 +4,7 @@ Grant Stoner gstoner2@huskers.unl.edu
 
 ## Abstract
 
-Inspired by Johnny Cash's famous cover of "Hurt" by Nine Inch Nails, I wanted to use Jukebox to make a Nine Inch Nails Johnny Cash's "Ring of Fire".
+Inspired by Johnny Cash's famous cover of "Hurt" by Nine Inch Nails, I wanted to use Jukebox to make a Nine Inch Nails cover of Johnny Cash's "Ring of Fire".
 
 ## Model/Data
 
